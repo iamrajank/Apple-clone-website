@@ -1,7 +1,7 @@
 ## 🍎— Responsive Apple Website Clone using only HTML & CSS.
 This project is a clone of the latest Apple website, created using HTML ,CSS and JavaScript only. The purpose of this project is to practice front-end web development skills, including HTML and CSS layout, responsive design, and web accessibility.
 
-## Demo
+## Demo : https://iamrajank.github.io/Apple-clone-website/
 View the website:
 
 ## Features
