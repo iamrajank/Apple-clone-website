@@ -1,9 +1,18 @@
 ## 🍎— Responsive Apple Website Clone using only HTML & CSS.
-![](Readme/client-side.JPG)
-Apple Website Clone using only HTML & CSS - Progate New year 2021 Bootcamp Project Team.
-Progate New Year Bootcamp 2021 Team project. We managed to finish the project in 3 days, i'm satisfied to see all of the members doing their job really well
+This project is a clone of the latest Apple website, created using HTML ,CSS and JavaScript only. The purpose of this project is to practice front-end web development skills, including HTML and CSS layout, responsive design, and web accessibility.
 
-### To be declared "PASS", your Webpage must have 6 of this components:
+## Demo
+View the website:
+
+## Features
+- Fully responsive design, optimized for desktop, tablet, and mobile devices.
+- Accurate recreation of the latest Apple website design, including layout, typography, and color scheme.
+- Semantic HTML markup and CSS styling, optimized for web accessibility.
+
+![](Readme/client-side.JPG)
+
+
+### To be declared "PASS", your Webpage must have 4 of this components:
 
 - Header ✔
 - Main ✔
